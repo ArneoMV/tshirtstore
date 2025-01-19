@@ -1,0 +1,35 @@
+{
+	"shippingInfo": {
+		"address": "123 Elm Street",
+		"city": "Springfield",
+		"phoneNo": "+123456789",
+		"postalCode": "54321",
+		"state": "Illinois",
+		"country": "USA"
+	},
+	"user": "63f1e8a5e8d8b5a83e7b1234",
+	"orderItems": [
+		{
+			"name": "shortSleeves",
+			"quantity": 2,
+			"image": "https://example.com/image/tshirt.png",
+			"price": 20,
+			"product": "63f1e8b6e8d8b5a83e7b5678"
+		},
+		{
+			"name": "longSleeves",
+			"quantity": 1,
+			"image": "https://example.com/image/jeans.png",
+			"price": 50,
+			"product": "63f1e8b7e8d8b5a83e7b9101"
+		}
+	],
+	"paymentInfo": {
+		"id": "pi_3JhF9RK9Eg5mMdzX1H8",
+		"status": "paid"
+	},
+	"taxAmount": 5,
+	"shippingAmount": 10,
+	"totalAmount": 105,
+	"orderStatus": "processing"
+}
